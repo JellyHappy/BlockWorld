@@ -1,0 +1,8 @@
+Construction brick: TIA ball, CTRLPF=$21 (4 color clocks wide), ballheight=3.
+Shared playfield color; no bitmap table is required.
+Conceptual bottom-to-top mask: 1111 / 1111 / 1111.
+Only one collectible is shown at a time.
+
+Brick 1: (30,75). Brick 2: (ledgeleft+8,50). Brick 3: (62,50).
+Numerical collection bounds use the hero rectangle and a small forgiving margin.
+Victory brick: ball at (126,62), gold from COLUPF=$1E.
