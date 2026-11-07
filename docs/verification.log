@@ -1,0 +1,10 @@
+>> Javatari: Unknown ROM: BlockWorld
+>> Javatari: 4K: 4K Atari, priority: 101
+World 1 completed: {"world":1,"bricks":0,"bridge":0,"rescued":0,"hp":1,"player1x":22,"player1y":80,"player0x":126,"velocity":0,"grounded":1,"hearts":3,"state":1,"invincible":43}
+World 2 completed: {"world":2,"bricks":0,"bridge":0,"rescued":0,"hp":1,"player1x":22,"player1y":80,"player0x":126,"velocity":0,"grounded":1,"hearts":3,"state":1,"invincible":43}
+World 3 completed: {"world":3,"bricks":0,"bridge":0,"rescued":0,"hp":1,"player1x":22,"player1y":80,"player0x":126,"velocity":0,"grounded":1,"hearts":3,"state":1,"invincible":43}
+World 4 completed: {"world":4,"bricks":0,"bridge":0,"rescued":0,"hp":1,"player1x":22,"player1y":80,"player0x":126,"velocity":0,"grounded":1,"hearts":3,"state":1,"invincible":43}
+World 5 completed: {"world":5,"bricks":0,"bridge":0,"rescued":0,"hp":3,"player1x":22,"player1y":80,"player0x":126,"velocity":0,"grounded":1,"hearts":3,"state":1,"invincible":43}
+World 6 completed: {"world":6,"bricks":3,"bridge":1,"rescued":1,"hp":0,"player1x":142,"player1y":200,"player0x":126,"velocity":0,"grounded":1,"hearts":3,"state":3,"invincible":0}
+Campaign frame lengths: { '262': 2384 }
+PASS: six worlds, 3-hit boss, rescue, bridge, victory, held fire, reset, relay, pit deaths, side damage, preserved bridge, game over, restart.
